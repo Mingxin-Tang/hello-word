@@ -60,3 +60,7 @@ ___
 例如 >这是我的GitHub链接 [TTL的GitHub](https://github.com/Mingxin-Tang)  
 
 11.图片 ![替代文字](图片路径)  
+> 一般图片放在同级文件夹或上级文件夹
+> 
+这是一张教程图片![例图名字](https://github.com/Mingxin-Tang/hello-word/blob/main/pic/%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87%E4%BE%8B%E5%9B%BE.png)
+
